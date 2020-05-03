@@ -14,7 +14,6 @@
 
 ### Description of files
 *run_docker.sh - Runs the application in a docker container
-
 *model_data -  Model data
 *Dockerfile - DOckerfile for the prediction model
 *make_prediction.sh - script for testing and making predictions
