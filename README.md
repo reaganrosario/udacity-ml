@@ -14,14 +14,25 @@
 
 ### Description of files
 *run_docker.sh - Runs the application in a docker container
+
 *model_data -  Model data
+
 *Dockerfile - DOckerfile for the prediction model
+
 *make_prediction.sh - script for testing and making predictions
+
 run_kubernetes.sh - Run the ap in a kubernetes cluster
+
 README.md
+
 upload_docker.sh - Uploads the docker image to docker hub
+
 app.py - Runs the model
+
 output_txt_files - Output files
+
 requirements.txt - Requirement files for dependencies
+
 Makefile - Makefile with commands
+
 
