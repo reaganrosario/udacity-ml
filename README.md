@@ -1,4 +1,5 @@
-<include a CircleCI status badge, here>
+[![reaganrosario](https://circleci.com/gh/reaganrosario/udacity-ml.svg?style=svg)](<LINK>)
+
 
 ## Project Overview
 
